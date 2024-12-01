@@ -1,6 +1,6 @@
-# Study Notion
+# BrainScape
 
-Study Notion is an ED Tech (Education Technology) web application developed using the MERN stack.
+BrainScape is an ED Tech (Education Technology) web application developed using the MERN stack.
 
 ## Note
 
@@ -10,7 +10,7 @@ This project is intended as a learning tool and can be used as a sample project 
 ***
 ## Features
 
-* User Authentication: Study Notion provides secure user registration and authentication using JWT (JSON Web Tokens). Users can sign up, log in, and manage their 
+* User Authentication: BrainScape provides secure user registration and authentication using JWT (JSON Web Tokens). Users can sign up, log in, and manage their 
   profiles with ease.
   
 * Courses and Lessons: Instructors can create and edit created courses. Students can enroll in courses, access course materials, and track their progress.
@@ -51,12 +51,11 @@ This project is intended as a learning tool and can be used as a sample project 
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/himanshu8443/Study-Notion-master.git
     ```
 
 2. Install the required packages.
     ```sh
-    cd Study-Notion-master
+    cd BrainScape
     npm install
     
     cd server
